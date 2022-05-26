@@ -1,0 +1,54 @@
+{
+  "menu": {
+    "companyName": "J&L Service"
+  },
+  "header": {
+    "text": "Realizamos service integral y reparaciones de lavarropas automáticos y semiautomáticos, de carga frontal y superior."
+  },
+  "features": [
+    {
+      "name": "Service Integral",
+      "description": "Service de lavarropas de todas las marcas, nos especializamos hace mas de 5 años en servicio técnico y reparación de lavarropas de marcas muy reconocidas tales como Dream, Whirlpool, Ariston, Lg, entre otras.",
+      "actionText": "Reserva tu service"
+    },
+    {
+      "name": "Reparaciones Especializadas",
+      "description": "Conocemos las fallas y problemas que presentan cada marca, desde problemas hidráulicos, hasta fallas eléctricas y electrónicas como falla en el temporizador y programador.",
+      "actionText": "Cotiza tu reparacion"
+    },
+    {
+      "name": "Venta de Lavarropas",
+      "description": "Tenemos lavarropas usados en excelentes condiciones a la venta, no te pierdas la oportunidad de adquirir tu nuevo equipo.",
+      "actionText": "Compra tu equipo"
+    }
+  ],
+  "map": {
+    "city": "Colonia Caroya",
+    "province": "Córdoba",
+    "street": "Pedro Patat Norte 497",
+    "coordinatesArray": [-31.0188713, -64.0573618]
+  },
+  "testimonials": [
+    {
+      "description": "Excelente, le comente el problema que tuve con el lavarropas, al otro dia vino al domicilio con el repuesto, lo cambio en el momento y quedo funcionando!",
+      "client": "Martin S."
+    },
+    {
+      "description": "Muy bueno responsable y muy buen trabajo muy recomendable y no te cobra de más.",
+      "client": "Sofia L."
+    }
+  ],
+  "contact": {
+    "schedule": {
+      "days": {
+        "from": "Lunes",
+        "to": "Viernes"
+      },
+      "hours": {
+        "from": "08:00",
+        "to": "20:00"
+      }
+    },
+    "cellphone": "(3525) 15637520"
+  }
+}
